@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_facebook.png",
+        "source": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/src/main/res/mipmap-xhdpi/ic_facebook.png"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_twitter.png",
+        "source": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/src/main/res/mipmap-xhdpi/ic_twitter.png"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_instagram.png",
+        "source": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/src/main/res/mipmap-xhdpi/ic_instagram.png"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_tzlauncher.png",
+        "source": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/src/main/res/mipmap-xhdpi/ic_tzlauncher.png"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_create_black_48dp.png",
+        "source": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/src/main/res/mipmap-xhdpi/ic_create_black_48dp.png"
+    }
+]

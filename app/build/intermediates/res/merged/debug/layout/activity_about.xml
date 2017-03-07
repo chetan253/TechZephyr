@@ -1,0 +1,57 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.tzltce.techzephyr.AboutActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbarabout"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        app:layout_scrollFlags="scroll|enterAlways"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+    <LinearLayout
+        android:id="@+id/about_container"
+        android:layout_below="@id/toolbarabout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_alignParentBottom="true">
+
+        <TextView
+            android:id="@+id/about_main"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:paddingBottom="8dp"
+            android:paddingLeft="24dp"
+            android:paddingRight="24dp"
+            android:paddingTop="8dp"
+            tools:text="Tech Zephyr" />
+
+        <TextView
+            android:id="@+id/about"
+            style="@style/AboutLink"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="About" />
+
+        <TextView
+            android:id="@+id/about_licenses"
+            style="@style/AboutLink"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Open Source Licenses" />
+
+        <TextView
+            android:id="@+id/about_problems"
+            style="@style/AboutLink"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Report Problems" />
+
+    </LinearLayout>
+</RelativeLayout>

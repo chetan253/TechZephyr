@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<notices>
+    <notice>
+        <name>android-volley</name>
+        <url>https://github.com/mcxiaoke/android-volley</url>
+        <copyright>Copyright (C) 2011 The Android Open Source Project&lt;br/&gt;Copyright (C) 2014 Xiaoke Zhang</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>android-slidingactivity</name>
+        <url>https://github.com/klinker41/android-slidingactivity</url>
+        <copyright>Copyright (C) 2015 Jacob Klinker</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>MaterialDrawer</name>
+        <url>https://github.com/mikepenz/MaterialDrawer</url>
+        <copyright>Copyright 2016 Mike Penz</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>BottomSheet</name>
+        <url>https://github.com/soarcn/BottomSheet</url>
+        <copyright>Copyright 2011, 2015 Kai Liao</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Android-Iconics</name>
+        <url>https://github.com/mikepenz/Android-Iconics</url>
+        <copyright>Copyright 2016 Mike Penz</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+</notices>

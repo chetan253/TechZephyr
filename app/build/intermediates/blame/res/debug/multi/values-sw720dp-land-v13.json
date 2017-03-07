@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/exploded-aar/com.klinkerapps/sliding-activity/1.1.1/res/values-sw720dp-land/values-sw720dp-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 57,
+                        "endOffset": 253
+                    }
+                }
+            }
+        ]
+    }
+]

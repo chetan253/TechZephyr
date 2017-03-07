@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/exploded-aar/com.klinkerapps/sliding-activity/1.1.1/res/values-sw600dp-land/values-sw600dp-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 57,
+                        "endOffset": 253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 62,
+                    "endOffset": 171
+                },
+                "from": {
+                    "file": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/exploded-aar/com.klinkerapps/sliding-activity/1.1.1/res/values-sw600dp-land/values-sw600dp-land.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 258,
+                        "endColumn": 62,
+                        "endOffset": 316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 176,
+                    "endColumn": 58,
+                    "endOffset": 230
+                },
+                "from": {
+                    "file": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/exploded-aar/com.klinkerapps/sliding-activity/1.1.1/res/values-sw600dp-land/values-sw600dp-land.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 468,
+                        "endColumn": 58,
+                        "endOffset": 522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 235,
+                    "endColumn": 59,
+                    "endOffset": 290
+                },
+                "from": {
+                    "file": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/exploded-aar/com.klinkerapps/sliding-activity/1.1.1/res/values-sw600dp-land/values-sw600dp-land.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 527,
+                        "endColumn": 59,
+                        "endOffset": 582
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/res/merged/debug/menu/menu_register.xml",
+        "source": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/src/main/res/menu/menu_register.xml"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/res/merged/debug/menu/menu_detail.xml",
+        "source": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/src/main/res/menu/menu_detail.xml"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/res/merged/debug/menu/menu_detail_workshop.xml",
+        "source": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/src/main/res/menu/menu_detail_workshop.xml"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/res/merged/debug/menu/menu_event_selector.xml",
+        "source": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/src/main/res/menu/menu_event_selector.xml"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/res/merged/debug/menu/menu_show_entries.xml",
+        "source": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/src/main/res/menu/menu_show_entries.xml"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/res/merged/debug/menu/menu_social.xml",
+        "source": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/src/main/res/menu/menu_social.xml"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/res/merged/debug/menu/menu_workshop_selector.xml",
+        "source": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/src/main/res/menu/menu_workshop_selector.xml"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/res/merged/debug/menu/menu_about.xml",
+        "source": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/src/main/res/menu/menu_about.xml"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/res/merged/debug/menu/navigation_drawer_items.xml",
+        "source": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/src/main/res/menu/navigation_drawer_items.xml"
+    }
+]

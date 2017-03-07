@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.hmkcode.mongoz.MainActivity" >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/mainmenu"
+            android:icon="@drawable/ham_icon"
+            android:title="Tech Zephyr"/>
+        <item
+            android:id="@+id/eventsmenu"
+            android:icon="@drawable/ham_icon"
+            android:title="Events"/>
+        <item
+            android:id="@+id/workshopmenu"
+            android:icon="@drawable/ham_icon"
+            android:title="Workshops"/>
+        <item
+            android:id="@+id/registerationmenu"
+            android:icon="@drawable/ham_icon"
+            android:title="Register"/>
+        <item
+            android:id="@+id/detailtest"
+            android:icon="@drawable/ham_icon"
+            android:title="test"/>
+        <item
+            android:id="@+id/aboutmenu"
+            android:icon="@drawable/ham_icon"
+            android:title="About"/>
+    </group>
+
+</menu>

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 38,
+                    "endOffset": 89
+                },
+                "from": {
+                    "file": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/exploded-aar/com.cocosw/bottomsheet/1.0/res/values-zh/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 175,
+                        "endColumn": 38,
+                        "endOffset": 209
+                    }
+                }
+            }
+        ]
+    }
+]

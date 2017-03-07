@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tech Zephyr</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_detail_workshop">DetailWorkshopActivity</string>
+    <string name="title_activity_event_selector">EventSelector</string>
+    <string name="title_activity_workshop_selector">WorkshopSelector</string>
+    <string name="title_activity_show_entries">ShowEntriesActivity</string>
+    <string name="title_activity_entry_detail">EntryDetailActivity</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="title_activity_intro">IntroActivity</string>
+    <string name="title_activity_about">About</string>
+</resources>

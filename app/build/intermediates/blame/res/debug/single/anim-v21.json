@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/res/merged/debug/anim-v21/bs_list_layout_anim_in.xml",
+        "source": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/exploded-aar/com.cocosw/bottomsheet/1.0/res/anim-v21/bs_list_layout_anim_in.xml"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/res/merged/debug/anim-v21/bs_list_item_in.xml",
+        "source": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/exploded-aar/com.cocosw/bottomsheet/1.0/res/anim-v21/bs_list_item_in.xml"
+    }
+]

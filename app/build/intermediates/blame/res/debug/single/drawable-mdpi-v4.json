@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/bs_ic_more.png",
+        "source": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/exploded-aar/com.cocosw/bottomsheet/1.0/res/drawable-mdpi-v4/bs_ic_more.png"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/fab_add.png",
+        "source": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.2/res/drawable-mdpi-v4/fab_add.png"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/bs_ic_clear_light.png",
+        "source": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/exploded-aar/com.cocosw/bottomsheet/1.0/res/drawable-mdpi-v4/bs_ic_clear_light.png"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/bs_ic_clear.png",
+        "source": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/exploded-aar/com.cocosw/bottomsheet/1.0/res/drawable-mdpi-v4/bs_ic_clear.png"
+    },
+    {
+        "merged": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/bs_ic_more_light.png",
+        "source": "/home/chetan253/AndroidStudioProjects/TechZephyr/app/build/intermediates/exploded-aar/com.cocosw/bottomsheet/1.0/res/drawable-mdpi-v4/bs_ic_more_light.png"
+    }
+]
